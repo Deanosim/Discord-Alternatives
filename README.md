@@ -3,7 +3,7 @@
 ## Other Lists
 
 - <https://github.com/stars/Deanosim/lists/discord-alternatives>
-- <https://selfh.st/apps/?alternative=Discord&ref=selfh.st>
+- <https://selfh.st/apps/?alternative=Discord>
 
 ## Current unsorted options
 
