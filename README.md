@@ -1,8 +1,7 @@
-# Possible Discord Alternatives:
+# Possible Discord Alternatives
 
 ## Other Lists
 
-- <https://github.com/stars/Deanosim/lists/discord-alternatives>
 - <https://selfh.st/apps/?alternative=Discord>
 
 ## Current unsorted options
