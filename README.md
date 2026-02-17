@@ -6,19 +6,19 @@
 
 ## Current unsorted options
 
-- ### Matrix (Protocol)
+- ### [Matrix (Protocol)](https://matrix.org)
 
-  #### Clients
+  #### [Clients](https://matrix.org/ecosystem/clients)
 
-  - Element
-  - Cinny
-  - Commet
-  - Beeper (Technically it's own service, but uses Matrix)
+  - [Element](https://element.io)
+  - [Cinny](https://cinny.in)
+  - [Commet](https://commet.chat)
+  - [Beeper](https://beeper.com) (Technically it's own service, but uses Matrix)
 
-  #### Servers
+  #### [Servers](https://matrix.org/ecosystem/servers)
 
-  - Synapse
-  - Conduwuinity
+  - [Synapse](https://github.com/element-hq/synapse)
+  - [onduwuinity](https://forgejo.ellis.link/continuwuation/continuwuity)
   
 - Teamspeak 6
 - IRC
