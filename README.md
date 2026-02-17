@@ -20,10 +20,10 @@
   - [Synapse](https://github.com/element-hq/synapse)
   - [Condinuwuity](https://forgejo.ellis.link/continuwuation/continuwuity)
   
-- Teamspeak 6 (Uses Matrix for Group Chats)
+- [Teamspeak 6](https://teamspeak.com) (Uses Matrix for Group Chats)
 - IRC
-- Mattermost
-- Zulip
+- [Mattermost](https://mattermost.com)
+- [Zulip](https://zulip.com/)
 - Nextcloud
 - Stoat/Revolt
 - Spacebar
