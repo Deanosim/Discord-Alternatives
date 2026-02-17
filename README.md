@@ -18,9 +18,9 @@
   #### [Servers](https://matrix.org/ecosystem/servers)
 
   - [Synapse](https://github.com/element-hq/synapse)
-  - [onduwuinity](https://forgejo.ellis.link/continuwuation/continuwuity)
+  - [Condinuwuity](https://forgejo.ellis.link/continuwuation/continuwuity)
   
-- Teamspeak 6
+- Teamspeak 6 (Uses Matrix for Group Chats)
 - IRC
 - Mattermost
 - Zulip
