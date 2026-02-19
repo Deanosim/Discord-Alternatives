@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "Discord Alternatives"
-  text: "My Personal list of Discord Alternatives"
-  tagline: My great project tagline
+#  text: "My Personal list of Discord Alternatives"
+  tagline: My Personal list of Discord Alternatives
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Go To List
+      link: /README.md
     - theme: alt
       text: API Examples
       link: /api-examples
