@@ -21,14 +21,15 @@
   - [Condinuwuity](https://forgejo.ellis.link/continuwuation/continuwuity)
   
 - [Teamspeak 6](https://teamspeak.com) (Uses Matrix for Group Chats)
-- IRC
 - [Mattermost](https://mattermost.com)
 - [Zulip](https://zulip.com/)
-- Nextcloud
+- [Fluxer](https://fluxer.app) | [Source](https://github.com/fluxerapp/fluxer)
+- [Pulse Chat](https://plse.chat) | [Source](https://github.com/plsechat/pulse-chat)
+- [Sharkord](https://github.com/Sharkord/sharkord)
 - Stoat/Revolt
 - Spacebar
+- Nextcloud
 - Mumble
 - XMPP
-- Fluxer
-- [Sharkord](https://github.com/Sharkord/sharkord)
+- IRC
 - You tell me?
