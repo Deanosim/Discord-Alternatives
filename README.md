@@ -26,10 +26,14 @@
 - [Fluxer](https://fluxer.app) | [Source](https://github.com/fluxerapp/fluxer)
 - [Pulse Chat](https://plse.chat) | [Source](https://github.com/plsechat/pulse-chat)
 - [Sharkord](https://github.com/Sharkord/sharkord)
-- Stoat/Revolt
-- Spacebar
-- Nextcloud
-- Mumble
-- XMPP
+- [Stoat/Revolt](https://stoat.chat/) | [Source](https://github.com/stoatchat)
+- [Spacebar](https://github.com/spacebarchat/server)
+- [DCTS](https://github.com/hackthedev/dcts-shipping)
+- [Sunburn](https://github.com/sunburnco/sunburn)
+- [Haven](https://github.com/ancsemi/Haven)
+- [Nextcloud Talk](https://nextcloud.com/talk/)
+- [Mumble](https://www.mumble.info/)
+- [SimpleX](https://simplex.chat/)
+- [Jabber/XMPP](https://xmpp.org)
 - IRC
 - You tell me?
