@@ -1,10 +1,4 @@
-Github Magically wiped a bunch of my commits and I can't seem to recover them.
-
 # Possible Discord Alternatives
-
-## Other Lists
-
-- <https://selfh.st/apps/?alternative=Discord>
 
 ## Current unsorted options
 
@@ -14,6 +8,7 @@ Github Magically wiped a bunch of my commits and I can't seem to recover them.
 
   - [Element](https://element.io)
   - [Cinny](https://cinny.in)
+  - [Sable](https://github.com/SableClient/Sable)
   - [Commet](https://commet.chat)
   - [Beeper](https://beeper.com) (Technically it's own service, but uses Matrix)
 
@@ -39,3 +34,7 @@ Github Magically wiped a bunch of my commits and I can't seem to recover them.
 - [Jabber/XMPP](https://xmpp.org)
 - IRC
 - You tell me?
+
+## Other Lists
+
+- <https://selfh.st/apps/?alternative=Discord>
