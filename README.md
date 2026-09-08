@@ -1,3 +1,5 @@
+Github Magically wiped a bunch of my commits and I can't seem to recover them.
+
 # Possible Discord Alternatives
 
 ## Other Lists
